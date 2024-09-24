@@ -1,0 +1,19 @@
+<html>
+
+<head>
+
+<title>Cara Membuat Marquee</title>
+
+</head>
+
+<body bgcolor="WHITE">
+
+<marquee bgcolor="BLUE" scrollamount="18" behavior-"alternate">
+
+<font size="100"> pian suka pina!!</font>
+
+</body>
+
+</marquee>
+
+</html>
